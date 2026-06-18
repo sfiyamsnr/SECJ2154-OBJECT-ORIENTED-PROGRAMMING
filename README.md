@@ -1,7 +1,5 @@
 # SECJ2154-OBJECT-ORIENTED-PROGRAMMING
 
-# SECJ2154-OBJECT-ORIENTED-PROGRAMMING
-
 # 🚀 Object Oriented Programming (SECJ2154) - Learning Portfolio & Project Reflection
 
 Welcome to my portfolio for the **Object Oriented Programming (SECJ2154)** course.
